@@ -30,18 +30,13 @@ CyberForce CLI comes **preloaded** with the following security tools:
 
 ## 📥 Installation  
 
-### **1️⃣ Clone the Repository**  
-```sh
-git clone https://github.com/YourGitHub/CyberForce-CLI.git
-cd CyberForce-CLI
-```
+### **1️⃣ Download the release **  
 
-### **2️⃣ Run the Tool**  
-```sh
-cyberforce.exe
-```
+### **2️⃣ Unzip th folder**  
 
-### ** 3️⃣ If you get error**  
+### ** 3️⃣ Run it **  
+you can just click on the cyberforce.exe(RECOMMENDED)
+otherwise open terminal in unzipped folder and :
 ```sh
 ./cyberforce.exe
 ```
