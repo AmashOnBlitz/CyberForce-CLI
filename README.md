@@ -3,7 +3,6 @@
 🚀 **CyberForce CLI** is an all-in-one, ready-to-use command-line tool designed for ethical hacking and cybersecurity tasks. It includes all necessary tools **pre-installed**, eliminating the need for additional setup. Whether you're an ethical hacker, security researcher, or beginner, CyberForce CLI makes penetration testing **simple and efficient**.
 
 ---
-
 ## 🔥 Features  
 ✔️ **Zero Setup Required** – Comes with all essential tools pre-installed!  
 ✔️ **One Command Execution** – Run powerful pentesting tools effortlessly.  
@@ -59,7 +58,8 @@ uses :
 - **instapasswordcracker.exe** – In$t@gr@m password brute force cracking tool  
 
 ---
-
+## Its an open source , so there is no chance for a virus or malware.
+---
 ## ⚠️ Disclaimer  
 **CyberForce CLI is strictly for educational and ethical testing purposes only.** Unauthorized use on systems without permission is illegal. The developers are not responsible for any misuse of this tool.  
 
